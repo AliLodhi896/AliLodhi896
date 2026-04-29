@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social&label=Follow"/>
+  <a href="https://github.com/AliLodhi896?tab=followers">
+    <img src="https://img.shields.io/github/followers/AliLodhi896?style=social&label=Follow"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=AliLodhi896&color=blue"/>
 </p>
 
 ---
@@ -35,19 +35,19 @@ I have worked with international clients and teams across the USA and UK, delive
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:lodhiali787@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/faraz-ali-lodhi-87b053233" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.upwork.com/freelancers/your-upwork" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01e6d623df76770eba?viewMode=1" target="_blank">
     <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 
-  <a href="https://www.fiverr.com/your-fiverr" target="_blank">
+  <a href="https://www.fiverr.com/alilodhi275?public_mode=true" target="_blank">
     <img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </div>
@@ -57,18 +57,26 @@ I have worked with international clients and teams across the USA and UK, delive
 ## 🛠 Tech Stack
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### AI / Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
